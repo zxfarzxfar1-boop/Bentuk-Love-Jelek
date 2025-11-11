@@ -1,4 +1,4 @@
-# Bentuk-Love-Jelek
+# Love logo but ugly code
 
 def print_heart():
     
